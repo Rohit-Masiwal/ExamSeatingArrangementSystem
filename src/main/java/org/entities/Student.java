@@ -1,6 +1,6 @@
-package org.seating;
+package org.entities;
 
-class Student {
+public class Student {
     private String rollNumber;
     private String name;
     private int semester;
